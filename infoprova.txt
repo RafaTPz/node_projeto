@@ -53,3 +53,6 @@ codigos de erros 400 e 500, codigo que deu certo 200
 
 //nota a mais
 usar Promise
+
+mais dificil controllers
+começar com serviços, dtos, e dps controllers
