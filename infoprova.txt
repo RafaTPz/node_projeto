@@ -45,3 +45,11 @@ idade: number
 }]
 
 
+
+focar em controllers e services
+criar os dtos(npm i zod)
+codigos de erros 400 e 500, codigo que deu certo 200
+
+
+//nota a mais
+usar Promise
