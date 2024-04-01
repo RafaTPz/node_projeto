@@ -56,3 +56,8 @@ usar Promise
 
 mais dificil controllers
 começar com serviços, dtos, e dps controllers
+
+serviços 3 pontos
+dtos 2pontos
+controllers 4 pontos
+rotas finais e inicialização 1ponto
