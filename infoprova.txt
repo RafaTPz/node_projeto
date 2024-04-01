@@ -1,0 +1,47 @@
+instalação dos bgl tudo
+
+tsconfig explicar outdir e o outro dir
+
+como que roda a aplicação: nodemon, start, run dev
+
+estrutura de pastas: config, controllers, services, routes, business,
+entities, dtos, repositorios, impl
+
+config e routes terão index.ts alem do index principal na pasta principal
+
+entities, use cases, controllers, external interfaces em ordem
+
+express temq instalar primeiro normal npm i express e dps a types 
+npm i @types/express
+
+express é um servidor q faz gerenciamento de rotas e cada rota tem um 
+caminho especifico
+
+
+
+prova:
+faça um servidor com os seguintes requisitos:
+
+prova(diagrama de caso de usos e tabela fromato swagger)
+
+controllers e services
+
+cadastrar usuário
+listar os usuários
+verificar 1 usuário
+remover 1 usuário
+
+routers e controllers
+/usuarios/:id
+id:string    req
+nome: string
+cpf: string
+idade: number
+
+[ {
+    nome: string
+    cpf: string
+    idade: number
+}]
+
+
