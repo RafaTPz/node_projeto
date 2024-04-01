@@ -54,3 +54,5 @@ interface User {
 
 let users: User[] = [];
 let nextId = 1;
+
+export default app;
